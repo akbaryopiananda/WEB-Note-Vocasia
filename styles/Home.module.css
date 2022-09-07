@@ -1,0 +1,10 @@
+.todo::-webkit-scrollbar {
+  width: 10px;
+  background-color: RGBA(0, 0, 0, 0.08);
+}
+
+.todo::-webkit-scrollbar-thumb {
+  background-color: #9a979b;
+  border-radius: 22px;
+  border: 0 solid #9a979b;
+}
